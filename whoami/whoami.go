@@ -1,5 +1,5 @@
 package whoami
 
 func Print() string {
-	return "I'm echo v2"
+	return "I'm echo v3"
 }
